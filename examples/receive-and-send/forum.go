@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/event"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/event"
 )
 
 // ThreadEventHandler 论坛主贴事件

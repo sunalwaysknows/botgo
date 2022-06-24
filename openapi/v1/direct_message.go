@@ -3,8 +3,8 @@ package v1
 import (
 	"context"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/openapi"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/openapi"
 )
 
 // CreateDirectMessage 创建私信频道

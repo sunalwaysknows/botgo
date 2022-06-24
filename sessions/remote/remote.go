@@ -9,12 +9,12 @@ import (
 
 	"github.com/go-redis/redis/v8"
 	"github.com/google/uuid"
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/log"
-	"github.com/tencent-connect/botgo/sessions/manager"
-	"github.com/tencent-connect/botgo/sessions/remote/lock"
-	"github.com/tencent-connect/botgo/token"
-	"github.com/tencent-connect/botgo/websocket"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/log"
+	"github.com/sunalwaysknows/botgo/sessions/manager"
+	"github.com/sunalwaysknows/botgo/sessions/remote/lock"
+	"github.com/sunalwaysknows/botgo/token"
+	"github.com/sunalwaysknows/botgo/websocket"
 )
 
 const (

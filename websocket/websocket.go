@@ -5,9 +5,9 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/event"
-	"github.com/tencent-connect/botgo/log"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/event"
+	"github.com/sunalwaysknows/botgo/log"
 )
 
 var (

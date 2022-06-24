@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/dto/message"
-	"github.com/tencent-connect/botgo/event"
-	"github.com/tencent-connect/botgo/openapi"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/dto/message"
+	"github.com/sunalwaysknows/botgo/event"
+	"github.com/sunalwaysknows/botgo/openapi"
 )
 
 // ATMessageEventHandler 实现处理 at 消息的回调

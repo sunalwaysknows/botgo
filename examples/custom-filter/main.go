@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/tencent-connect/botgo"
-	"github.com/tencent-connect/botgo/openapi"
-	"github.com/tencent-connect/botgo/token"
+	"github.com/sunalwaysknows/botgo"
+	"github.com/sunalwaysknows/botgo/openapi"
+	"github.com/sunalwaysknows/botgo/token"
 )
 
 func main() {

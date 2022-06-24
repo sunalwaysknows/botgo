@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/token"
+	"github.com/sunalwaysknows/botgo/dto"
+	"github.com/sunalwaysknows/botgo/token"
 )
 
 // RetractMessageOption 撤回消息可选参数

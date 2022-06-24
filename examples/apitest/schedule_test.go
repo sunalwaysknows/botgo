@@ -3,7 +3,7 @@ package apitest
 import (
 	"testing"
 
-	"github.com/tencent-connect/botgo/dto"
+	"github.com/sunalwaysknows/botgo/dto"
 )
 
 var (
